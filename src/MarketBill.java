@@ -1,3 +1,6 @@
+// Author: Aland Abubakr
+// GitHub: https://github.com/Aland-Abubakr-Kurd
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
